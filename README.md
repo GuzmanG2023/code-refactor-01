@@ -4,4 +4,4 @@
 
 ## Interpreted a mock-up given to us by designers by dividing it into headers, articles and a footer so that we could create organized HTML and CSS content. I Used Git to create a repository for the project and create reassuring save points throughout the build process for customer viewing.
 
-[title](https://guzmang2023.github.io/code-refactor-01/)
+[title](https://guzmang2023.github.io/code-refactor-01/) <~~ Click Here to see the website
