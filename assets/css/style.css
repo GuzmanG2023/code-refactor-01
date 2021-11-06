@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-/* this is the header css */
+/* this is the css for the header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -40,11 +40,11 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
-/* this is my article and aside <p> on CSS*/
+/* this is the css for the article and aside <p>*/
 p {
   font-size: 16px;
 }
-/* this div is just for my hero on my CSS*/
+/* this div is just for my hero on CSS*/
 .hero {
   height: 800px;
   width: 100%;
@@ -53,7 +53,7 @@ p {
   background-size: cover;
   background-position: center;
 }
-/* this is my article on my CSS*/
+/* this is the css for article*/
 .float-left {
   float: left;
   margin-right: 25px;
@@ -87,7 +87,7 @@ article {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* this is the aside CSS */
+/* this is the css for the aside */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -111,11 +111,11 @@ aside {
 
 .benefits img {
   display: block;
-  margin: 10px auto;
+  margin: 20px auto;
   max-width: 150px;
 }
 
-/* this is my footer on CSS*/
+/* this is the css for the footer*/
 .footer {
   padding: 30px;
   clear: both;
