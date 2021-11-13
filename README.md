@@ -6,5 +6,3 @@
 
 [title](https://guzmang2023.github.io/code-refactor-01/) <~~ Click Here to see the website
 
-
-<img width="1812" alt="Screen Shot 2021-11-13 at 10 45 21 AM" src="https://user-images.githubusercontent.com/92010483/141654305-df9c4364-4d63-42fa-a662-d16397235a09.png">
